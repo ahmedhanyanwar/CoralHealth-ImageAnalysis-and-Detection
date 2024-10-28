@@ -36,17 +36,21 @@ In this section, we present the results of the coral health assessment obtained 
 ### Sample Images Taken
 
 1. **Taken Image**
+   
    ![Taken Image](image.jpg)
 
 ### Reference Image
 
 **Reference Coral Image**
+
 ![Reference Coral Image](reference.jpg)
 
 ### Result Images
 
 1. **Result Images**
+   
    ![Result Image 1](Result1.jpg)
+   
    ![Result Image 2](Result2.jpg)
 
 ### Summary of Results
