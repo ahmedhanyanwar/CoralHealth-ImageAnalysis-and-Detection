@@ -28,6 +28,32 @@ The success of this project inspired my journey into **Machine Learning (ML)**, 
 - **Matplotlib** for visualization
 - **OpenCV (CV2)** for image processing
 
+
+## Results
+
+In this section, we present the results of the coral health assessment obtained from the **CoralHealth-ImageAnalysis-and-Detection** project. The following images illustrate the coral images taken during the project, along with reference and result images.
+
+### Sample Images Taken
+
+1. **Taken Image**
+   ![Taken Image](image.jpg)
+
+### Reference Image
+
+**Reference Coral Image**
+![Reference Coral Image](reference.jpg)
+
+### Result Images
+
+1. **Result Images**
+   ![Result Image 1](Result1.jpg)
+   ![Result Image 2](Result2.jpg)
+
+### Summary of Results
+
+The results demonstrate the capability of the system to accurately assess coral health, highlighting various conditions. Further refinements using machine learning techniques could enhance detection accuracy and robustness.
+
+
 ## Getting Started
 1. Clone the repository:
    ```bash
